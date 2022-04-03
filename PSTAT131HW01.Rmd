@@ -8,6 +8,7 @@ output: html_document
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+<<<<<<< HEAD
 ```{r include=FALSE}
 library(tidyverse)
 library(tidymodels)
@@ -111,3 +112,42 @@ num_mpg <- mpg %>%
 M = cor(num_mpg)
 corrplot(M, method = 'square', order = 'FPC', type = 'lower', diag = FALSE)
 ```
+=======
+
+## Question #1:
+
+
+
+```{r cars}
+
+```
+
+## Question #2:
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+
+```
+
+
+
+## Question #3:
+
+## Question #4:
+
+## Question #5:
+
+## Question #6:
+
+## Exercise 1:
+
+## Exercise 2:
+
+## Exercise 3:
+
+## Exercise 4:
+
+## Exercise 5:
+
+>>>>>>> ce8cf993ab89790176984c3afe9da9ad6ece0b26
