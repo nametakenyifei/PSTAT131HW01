@@ -1,0 +1,47 @@
+---
+title: "PSTAT131HW01"
+author: "Yifei Zhang"
+date: '2022-04-02'
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Question #1:
+
+
+
+```{r cars}
+
+```
+
+## Question #2:
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+
+```
+
+
+
+## Question #3:
+
+## Question #4:
+
+## Question #5:
+
+## Question #6:
+
+## Exercise 1:
+
+## Exercise 2:
+
+## Exercise 3:
+
+## Exercise 4:
+
+## Exercise 5:
+
